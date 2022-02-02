@@ -1,2 +1,2 @@
-# Colour-Sorting
-Colour sorting using OpenCV with Mitsubishi Articulated Robotic Arm
+# Machine Vision
+Vision applications using OpenCV with Mitsubishi Articulated Robotic Arm
